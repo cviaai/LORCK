@@ -1,0 +1,3 @@
+[submodule "models/ConvLSTM_pytorch"]
+	path = models/ConvLSTM_pytorch
+	url = https://github.com/ndrplz/ConvLSTM_pytorch.git
