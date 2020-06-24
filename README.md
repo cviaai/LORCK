@@ -28,7 +28,7 @@ In this case, you may need to manually install the dependencies.
 If you use this package in your publications or in other work, please cite it as follows:
 ```
 @misc{Lazareva-LHK2020-git,
-  author = {Elizaveta Lazareva and Oleg Y. Rogov and Olga Shegai and Denis Larionov and Dmitry V. Dylov},
+  author = {Elizaveta Lazareva and Oleg Y. Rogov and Dmitry V. Dylov},
   title = {Learnable Hollow Kernels for Anatomical Segmentation},
   year = {2020},
   publisher = {GitHub},
@@ -49,5 +49,4 @@ Read more in the paper:
 ```
 ## Repository maintainters
 Elizaveta Lazareva (main contributor)
-
 Oleg Rogov
