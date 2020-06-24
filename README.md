@@ -10,7 +10,7 @@ This is a DL environment for developing and comparing results of certain hollow 
 
 </p>
 <p align="center">
-<em>(Top:)The bladder in 3D and the hollow kernels which mimic the shape of the organ.</em>
+<em>(Top:)The bladder in 3D and the hollow kernels which mimic the shape of the organ.</em><br>
 <em>(Bottom:)Intuition behind the hollow kernels: convolution with them emphasizes the contours of the organ along with the tissue borders in the vicinity. The effect depends on the scale of the convolution kernel.</em>
 </p>
 
