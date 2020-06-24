@@ -37,4 +37,6 @@ Read more in the paper:
     primaryClass={q-bio.NC}
 }
 ```
-## Maintainters
+## Repository maintainters
+Elizaveta Lazareva (main contributor)
+Oleg Rogov
