@@ -49,4 +49,5 @@ Read more in the paper:
 ```
 ## Repository maintainters
 Elizaveta Lazareva (main contributor)
+
 Oleg Rogov
