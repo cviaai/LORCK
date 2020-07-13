@@ -27,24 +27,13 @@ In this case, you may need to manually install the dependencies.
 ## Citing 
 If you use this package in your publications or in other work, please cite it as follows:
 ```
-@misc{Lazareva-LHK2020-git,
-  author = {Elizaveta Lazareva and Oleg Y. Rogov and Dmitry V. Dylov},
-  title = {Learnable Hollow Kernels for Anatomical Segmentation},
-  year = {2020},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/cviaai/LEARNABLE-HOLLOW-KERNELS/}}
-}
-```
-Read more in the paper:
-```
-@misc{Lazareva-LHK2020,
-    title={Learnable Hollow Kernels for Anatomical Segmentation,
-    author={Elizaveta Lazareva and Oleg Y. Rogov and Olga Shegai and Denis Larionov and Dmitry V. Dylov},
+@misc{lazareva2020learnable,
+    title={Learnable Hollow Kernels for Anatomical Segmentation},
+    author={Elizaveta Lazareva and Oleg Rogov and Olga Shegai and Denis Larionov and Dmitry V. Dylov},
     year={2020},
-    eprint={2002.10948},
+    eprint={2007.05103},
     archivePrefix={arXiv},
-    primaryClass={q-bio.NC}
+    primaryClass={cs.CV}
 }
 ```
 ## Repository maintainters
